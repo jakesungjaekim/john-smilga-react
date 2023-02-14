@@ -541,6 +541,7 @@ const Book = () => {
   can't be a statement
 
 ```js
+
 const author = 'Jordan Moore';
 const Book = () => {
   const title = 'Interesting Facts For Curious Mindssssss';
@@ -1498,7 +1499,7 @@ import Book from './Book';
 - set image property equal to import
 - and yes each image requires new import
 
-```js
+```js 
 import img1 from './images/book-1.jpg';
 import img2 from './images/book-2.jpg';
 import img3 from './images/book-3.jpg';
